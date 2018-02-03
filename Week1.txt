@@ -1,2 +1,2 @@
--Back and forth interaction discussing the main screens and their layout
-which resulted in 4 completed screens that both Sam and I agree on. Sent to Matthew. 03/02/18 2 Hours.
+-Back and forth interaction discussing the main screens and their layout which resulted in 4 completed screens that both Sam and I agree on. Sent to Matthew. 03/02/18 3 Hours.
+-The completed screens are: Main Menu, Game Screen, Loading Game Screen, High Scores Screen.
