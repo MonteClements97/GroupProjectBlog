@@ -1,2 +1,5 @@
 -Back and forth interaction discussing the main screens and their layout which resulted in 4 completed screens that both Sam and I agree on. Sent to Matthew. 03/02/18 3 Hours.
 -The completed screens are: Main Menu, Game Screen, Loading Game Screen, High Scores Screen.
+-Met with the group on 07/02/18 12:20-13:00 to discuss how individuals are getting on
+-Problems with threading and time were brought up. Minutes have been included in the repository 09/02/18
+-Based on the use cases provided by Sam, a PowerPoint has been made showcasing each of these cases. 08-09/02/18 4 Hours
