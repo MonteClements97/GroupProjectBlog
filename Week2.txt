@@ -1,0 +1,5 @@
+-Met up with group to discuss how tasks were coming along. Minutes were sent. 13/02/18
+-Investigated the Timeline object in Javafx. Found different methods that allow you to 
+set actions when the timer is set to 0. Seems to work well when under stress (found prime
+numbers between 1 to 100000 7 times in 5 minutes, timer still counted down on time. Used
+Samsumg Clock Timer to check this, further checking can be done but may be arbitrary.) 15/02/18 2 Hours
