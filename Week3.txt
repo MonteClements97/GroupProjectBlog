@@ -1,0 +1,3 @@
+-Met with team. Got assigned to prototype shuffle which will take all valid letters and throw them into the buttons as labels. 20/02/18
+-Completed a very rough version of the shuffle prototype. Uploaded to gitlab as well as this github. The prototype is only a very rough version and will change drastically when fully implementing. 20/02/18 3 hours
+-Added a few lines to the UI spec to highlight alerts 20/02/18 5 Minutes
