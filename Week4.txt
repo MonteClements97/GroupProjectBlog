@@ -1,0 +1,2 @@
+- Worked on the UML with Connor. Complications with how the UI will interact has arised due to the fact that neither of us has any experience with how Javafx works. 
+This will be brought up in the meeting. The UML diagram has been completed with the limited knowledge we have, and will be worked on more as we work with Javafx. 01/03/18 2 hours
