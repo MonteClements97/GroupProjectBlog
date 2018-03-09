@@ -1,0 +1,5 @@
+-Met with group. Discussed current jobs and handed new jobs. Minutes were sent. 06/03/18
+-Started creating the FXML, CSS and Java files for the main menu screen. Used the online presentation for reference and followed the colours specifically. 07/03/18 - 5 hours
+-Finished the FXML and CSS for the main menu. New game button works as intended but is the only working button. The game FXML, CSS and Java files are now being worked on. 07-08/03/18 - 5 hours
+-Finished the FXML and CSS for the game screen. The Timer and button generation have both been implemented. All TODO's have been included in comments in the GameController.java file. 08/03/18 - 3 hours
+-Minor adjustments to the UML diagram. 09/03/18
