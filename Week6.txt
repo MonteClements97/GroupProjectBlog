@@ -1,0 +1,7 @@
+-Created the createNewBoard method and the Gameboard constructor in the Gameboard class. Filled out all the getters and setters for the Tile class. 09/03/18 - 1 hours
+-Implemented rotation for the cube in the Gameboard class. 09/03/18 - 4 hours
+-Created methods inside the controller class. These include the constructor, newGame, and getTileValues. 10/03/18 - 1 hour
+-Redesigned how the cube was reading the seed to make more logical sense. 12/03/18 - 5 minutes
+-Met with the team. Minutes were sent regarding this meeting. 14/03/18
+-Met with the team for a formal review of the design spec. Minutes were sent regarding this review. 15/03/18
+-Added descriptions for the methods I had created into the design spec. 15/03/18 - 1 hour
