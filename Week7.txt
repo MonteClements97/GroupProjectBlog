@@ -1,0 +1,6 @@
+-Finished all the method descriptions in the design spec for the backend classes. 18/03/18 -1 hour
+-Finished all the method descriptions for the UI classes in the design spec. 19/03/18 - 1 hour
+-Fixed some compiliation issues in the code. 19/03/18 - 5 minutes
+-Improved the clear method in the code. 19/03/18 - 20 minutes
+-Met with the group to go over the entire system to ensure we all understood the system. 20/03/18 - 1 hour
+-NOTE: Was not able to attend official review due to a remote test for a company. 21/03/18
