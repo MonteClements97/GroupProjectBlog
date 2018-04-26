@@ -1,0 +1,2 @@
+Researched and implemented passing objects between scenes. 26/04/18 - 1 hour
+NOTE: Worked on other assignments to ensure next week got my full attention, so activity was reduced.
